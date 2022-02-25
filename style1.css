@@ -1,25 +1,18 @@
-div{
-  margin: 10px;
-}
-article img {
-  max-width: 15%;
-  float: left;
-  padding: 10px;
-}
-div {
-  margin: 10px;
-}
 .hidden {
   display: none;
 }
-h1{
+img  {
+  max-width: 25%;
+
+  float: left;
+  padding: 1rem;
+
+}
+div {
+  margin: 1rem;
+}
+h2{
   cursor: pointer;
-  background-color: gray;
-  padding: 10px;
-}
-.more{
-  display: block;
-}
-.none{
-  display: none;
+  background-color:rgb(255, 0, 0);
+  padding: 1rem;
 }
