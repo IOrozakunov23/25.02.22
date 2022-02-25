@@ -1,27 +1,25 @@
-.hidden {
-  display: none;
+div{
+  margin: 10px;
 }
-
-article img  {
+article img {
   max-width: 15%;
-
   float: left;
   padding: 10px;
-
 }
 div {
   margin: 10px;
 }
-
-.more {
-  display: block;
-}
-.none {
+.hidden {
   display: none;
 }
-h1 {
+h1{
   cursor: pointer;
-  background-color: rgb(236, 164, 236);
+  background-color: gray;
   padding: 10px;
-
+}
+.more{
+  display: block;
+}
+.none{
+  display: none;
 }
