@@ -1,18 +1,19 @@
 .hidden {
   display: none;
 }
-img  {
+img {
   max-width: 25%;
-
-  float: left;
+  float: right;
   padding: 1rem;
-
 }
-div {
+div img {
   margin: 1rem;
 }
-h2{
+h2 {
   cursor: pointer;
-  background-color:rgba(15, 129, 34, 0.548);
+  background-color: rgba(15, 129, 34, 0.548);
   padding: 1rem;
+}
+.h1 {
+  background-color: aqua;
 }
